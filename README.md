@@ -32,5 +32,5 @@ por trás de cada decisão técnica.
   quando aplicável.
 ## Sobre
  
-Escritos por [ghiaroot](https://github.com/ghiaroot) — Networks/Infra &
+Escritos por [bendesDev](https://github.com/bendesDev) — Networks/Infra &
 Security Analyst, em transição para Red Team / pentest.
