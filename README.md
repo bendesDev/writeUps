@@ -49,8 +49,3 @@ raciocínio por trás de cada decisão técnica.
   parcialmente redigidas (ex: `af13b0be...eacf`).
 - **TryHackMe / CTFs:** publicados após o encerramento do evento/sala,
   quando aplicável, com o mesmo critério de redação de flags.
-
-## Sobre
-
-Escritos por [bendesDev](https://github.com/bendesDev) — Networks/Infra &
-Security Analyst, em transição para Red Team / pentest.
