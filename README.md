@@ -21,7 +21,6 @@ writeUps/
 │   └── Vaccine/
 └── thm/                       ← TryHackMe
     ├── CowboyHacker/
-    ├── Guided-Pentest-Infra/
     └── RecruitX/
 ```
 
@@ -40,7 +39,6 @@ raciocínio por trás de cada decisão técnica.
 | [Getting Started](htb/Getting-Started/README.md) ([EN](htb/Getting-Started/README.en.md)) | HackTheBox | Very Easy | GetSimple CMS, credenciais padrão, sudo PHP |
 | [RecruitX v2.4](thm/RecruitX/README.md) ([EN](thm/RecruitX/README.en.md)) | TryHackMe | — | IDOR, account takeover, RCE via upload bypass |
 | [Cowboy Hacker](thm/CowboyHacker/README.md) ([EN](thm/CowboyHacker/README.en.md)) | TryHackMe | — | FTP anônimo, brute force, GTFOBins (tar) |
-| [Guided Pentest — Infra](thm/Guided-Pentest-Infra/README.md) ([EN](thm/Guided-Pentest-Infra/README.en.md)) | TryHackMe | Easy (guiado) | Recon de infra, escalada de privilégios |
 
 ## Política de publicação
 
