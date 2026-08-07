@@ -15,6 +15,7 @@ writeUps/
 ├── templates/
 │   └── TEMPLATE.md            ← modelo base para qualquer write-up novo
 ├── htb/                       ← HackTheBox (Retired Machines apenas)
+│   ├── Archetype/
 │   ├── Getting-Started/
 │   ├── Nibbles/
 │   ├── Oopsie/
@@ -33,6 +34,7 @@ raciocínio por trás de cada decisão técnica.
 
 | Máquina | Plataforma | Dificuldade | Tags |
 |---|---|---|---|
+| [Archetype](htb/Archetype/README.md) ([EN](htb/Archetype/README.en.md)) | HackTheBox | Easy | SMB anônimo, credenciais MSSQL, xp_cmdshell, PSReadLine |
 | [Oopsie](htb/Oopsie/README.md) ([EN](htb/Oopsie/README.en.md)) | HackTheBox | Easy | IDOR, upload irrestrito, SUID path traversal |
 | [Vaccine](htb/Vaccine/README.md) ([EN](htb/Vaccine/README.en.md)) | HackTheBox | Easy | FTP anônimo, SQL injection, sudo GTFOBins |
 | [Nibbles](htb/Nibbles/README.md) | HackTheBox | Easy | Nibbleblog, CVE-2015-6967, sudo misconfig |
